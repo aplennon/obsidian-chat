@@ -1,0 +1,13 @@
+{
+    "name": "Chat Plugin",
+    "version": "1.0.0",
+    "description": "A simple plugin that allows the user to input text after typing '/chat'",
+    "author": "Your Name",
+    "main": "main.js",
+    "keywords": [
+      "chat",
+      "input",
+      "plugin"
+    ],
+    "dependencies": {}
+  }
